@@ -32,8 +32,6 @@ Encounter an issue or error in the code? Please feel free to open an issue in th
 
 ## License
 
-[Specify your chosen license or insert its content here]
+For learning and development purposes only.
 
-## Acknowledgments
 
-[Optional section to recognize contributors or sources]
