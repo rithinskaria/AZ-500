@@ -1,4 +1,3 @@
-![Azure Exam AZ-500 Logo](https://res.cloudinary.com/kodekloud/image/upload/v1698643790/webflow/631f022194d7ef36d9303cbb_Horizontal.svg)
 
 # Azure AZ-500 Exam Preparation Scripts
 
